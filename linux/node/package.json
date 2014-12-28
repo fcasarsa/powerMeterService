@@ -1,0 +1,20 @@
+{
+  "author": "Francesco Casarsa <casarsa@gmail.com>",
+  "name": "powerMeter",
+  "description": "modbus power meter bridge",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fcasarsa/powerMeter.git"
+  },
+  "dependencies": {
+},
+  "devDependencies": {
+	"express":"4.10.6"
+
+},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
